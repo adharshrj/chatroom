@@ -7,7 +7,7 @@
     "dev": "node --watch index.js"
   },
   "repository": "https://github.com/adharshrj/chatroom",
-  "author": "adharshrj <rjadharsh333@gmail.com>",
+  "author": "adharshrj",
   "license": "MIT",
   "private": false,
   "dependencies": {
